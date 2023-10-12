@@ -32,7 +32,7 @@ https://github.com/keisen/tf-keras-vis
 
 ## Usage
 
-The application has a Stremlit interface. Please download some image from the sample_images folder of this repository to test it.It is available here:
+The application has a Stremlit interface. Please download some image from the sample_images folder of this repository to test it. It is available here:
 
 https://cancercell.streamlit.app
 

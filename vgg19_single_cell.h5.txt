@@ -1,4 +1,4 @@
-Please download the files vgg19_single_cell.h5 with the trained weights from
+Please download the file vgg19_single_cell.h5 (containing the trained weights) from
 
 https://drive.google.com/drive/folders/1JVsa0dGJmOjr966ug9oiMR93mkVOY8yA?usp=sharing
 

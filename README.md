@@ -41,3 +41,6 @@ Or clone the repository and launch streamlit:
 
 streamlit run streamlit_app.py
 
+The two large model files with the trained VGG19 weights have been removed from this repo and are available to download from:
+
+https://drive.google.com/drive/folders/1JVsa0dGJmOjr966ug9oiMR93mkVOY8yA
